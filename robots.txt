@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-u2o3xc.wsafe.vip/sitemap.xml
